@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "青い珊瑚礁",
+  "base_artist": "FRUITS ZIPPER",
+  "createdAt": "2026-02-18T06:08:00.350519Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "青い珊瑚礁",
+      "artist": "松田 聖子",
+      "has_synced": true,
+      "path": "select/01_青い珊瑚礁_松田_聖子.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "青い珊瑚礁",
+      "artist": "Seiko Matsuda",
+      "has_synced": true,
+      "path": "select/02_青い珊瑚礁_Seiko_Matsuda.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "青い珊瑚礁",
+      "artist": "松田聖子",
+      "has_synced": true,
+      "path": "select/03_青い珊瑚礁_松田聖子.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "青い珊瑚礁",
+      "artist": "松田聖子",
+      "has_synced": true,
+      "path": "select/04_青い珊瑚礁_松田聖子.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "青い珊瑚礁",
+      "artist": "松田聖子",
+      "has_synced": true,
+      "path": "select/05_青い珊瑚礁_松田聖子.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "青い珊瑚礁",
+      "artist": "Seiko Matsuda",
+      "has_synced": true,
+      "path": "select/06_青い珊瑚礁_Seiko_Matsuda.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "青い珊瑚礁 - Aoi Sangosho",
+      "artist": "Seiko Matsuda",
+      "has_synced": true,
+      "path": "select/07_青い珊瑚礁_-_Aoi_Sangosho_Seiko_Matsuda.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "青い珊瑚礁 (オリジナル・カラオケ)",
+      "artist": "Seiko Matsuda",
+      "has_synced": false,
+      "path": "select/08_青い珊瑚礁_(オリジナル・カラオケ)_Seiko_Matsuda.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "青い珊瑚礁",
+      "artist": "松田聖子",
+      "has_synced": true,
+      "path": "select/09_青い珊瑚礁_松田聖子.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "青い珊瑚礁 - Aoi Sangosho",
+      "artist": "Seiko Matsuda",
+      "has_synced": true,
+      "path": "select/10_青い珊瑚礁_-_Aoi_Sangosho_Seiko_Matsuda.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "青い珊瑚礁 (Blue Lagoon) - Aoi Sangoshou (Blue Lagoon)",
+      "artist": "Seiko Matsuda",
+      "has_synced": true,
+      "path": "select/11_青い珊瑚礁_(Blue_Lagoon)_-_Aoi_Sangoshou_(Blue_Lagoon)_Seiko_Matsuda.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "青い珊瑚礁",
+      "artist": "Matsuda, Seiko",
+      "has_synced": false,
+      "path": "select/12_青い珊瑚礁_Matsuda,_Seiko.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青い珊瑚礁",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": false,
+      "path": "select/pl_01_青い珊瑚礁_FRUITS_ZIPPER.txt"
+    }
+  ]
+}
